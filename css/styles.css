@@ -119,7 +119,9 @@ body {
 .proimg{
   width: 300px;
 }
-
+.cardcontent{
+  padding: 3rem !important;
+}
 /* =============== */
 hr {
   margin: 1rem 0;
@@ -11762,6 +11764,14 @@ html {
 .excard{
   padding: 1rem;
 }
-
-
+.con{
+  flex-direction: column-reverse;
+  
+}
+.picmarg{
+  margin-bottom: 50px;
+}
+.cardcontent{
+  padding: 2rem !important;
+}
 }
