@@ -11775,3 +11775,14 @@ html {
   padding: 2rem !important;
 }
 }
+@media (max-width: 1100px) {
+
+.con{
+  flex-direction: column-reverse;
+  
+}
+.picmarg{
+  margin-bottom: 50px;
+}
+
+}
